@@ -81,8 +81,8 @@ Fecha de entrega: 25-07-2023
 
 1. **Clona el repositorio:**
    ```sh
-   git clone <URL-del-repositorio>
-   cd <nombre-del-repositorio>
+   git clone <https://github.com/dancmartin11/dancmartin11-US-Financial-Complaints-Classification-Project.git>
+   cd <US-Financial-Complaints-Classification-Project>
 
 2. **Crea y activa un entorno virtual:**
    ```sh
